@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamerAT11
 - 👀 I’m interested in Computer Vision and AI
-- 🌱 I’m currently learning Object Detection and Tracking
-- 💞️ I’m looking to collaborate on Computer Vision projects.
+- 🌱 I’m currently researching Human Action Recognition and Anomaly Detection.
+- 💞️ I’m looking to collaborate on Computer Vision and deep learning projects.
 
 <!---
 SamerAT11/SamerAT11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

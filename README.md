@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamerAT11
 - 👀 I’m interested in Computer Vision and AI
-- 🌱 I’m currently researching Human Action Recognition and Anomaly Detection.
+- 🌱 I’m currently researching Human Action Recognition using deep learning models.
 - 💞️ I’m looking to collaborate on Computer Vision and deep learning projects.
 
 <!---
